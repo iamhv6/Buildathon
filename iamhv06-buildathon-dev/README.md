@@ -1,16 +1,16 @@
 # README
 [<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
-This is the README for your project. If you choose to publish an open source `app`
-for this project, this is what will be displayed on [Autocode Apps](/app).
-**The first line** will be used as the title of the app. Otherwise, you should use it
-to record important information about the project for yourself or your teammates.
+This is an [Autocode Apps](/app).
 
-## Preview
-While in the Autocode Editor, you can see a small preview of your README
-in the bottom right corner. Click on it to expand the preview.
+**About**  
+This is an improvement of the an open source template on autocode [Link](https://autocode.com/ctks/templates/music/)
+here is a preview of how it works
 
-## GitHub
-Should you decide to publish your projects and templates to GitHub,
-you can include an **Open in Autocode** button as displayed above.
-This will enable anybody to fork your project in Autocode directly.
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1JCb_vUloxI_0P0VnkvggkHOmzxfE0AKp/view?usp=sharing)
+
+## How to use this in autocode?
+While in the Autocode Editor, go to your project and upload these files by right clicking on the file when clicked a `Upload file` option will be visable
+[View image](https://media.discordapp.net/attachments/1093572121210396702/1169190254259994636/image.png)
+
+
