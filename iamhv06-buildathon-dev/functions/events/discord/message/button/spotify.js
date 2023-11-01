@@ -3,8 +3,8 @@ const {Spotify} = require('spotify-info.js');
 const axios = require('axios');
 
 const infos = new Spotify({
-  clientID: `06bfc5092f874ed3a093aff1c0f4b999`,
-  clientSecret: `bc780cae706a49eeac55ddcf6385b6a5`,
+  clientID: ``,   //please create a spotify client secret and client id at (https://developer.spotify.com/dashboard)
+  clientSecret: ``,
 });
 const commafy = require('commafy');
 const convertMS = require('ms-convert');
