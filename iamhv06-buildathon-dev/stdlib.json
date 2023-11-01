@@ -1,0 +1,76 @@
+{
+  "name": "iamhv06/buildathon",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/button/skip.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "skip"
+      }
+    },
+    "functions/events/discord/message/button/reset.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "res"
+      }
+    },
+    "functions/events/discord/message/button/lyrics.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "lyrics"
+      }
+    },
+    "functions/events/discord/message/button/translate.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "trans"
+      }
+    },
+    "functions/events/discord/modal/submit/translate.js": {
+      "name": "discord.modal.submit.interaction",
+      "subtype": {
+        "custom_id": "tra"
+      }
+    },
+    "functions/events/discord/bot/playback/finished.js": {
+      "name": "discord.bot.playback.finished"
+    },
+    "functions/events/discord/message/button/spotify.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "spotify"
+      }
+    },
+    "functions/events/discord/message/button/enhance.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "enhance"
+      }
+    },
+    "functions/events/discord/message/button/Youtube.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "yt"
+      }
+    },
+    "functions/events/discord/message/button/pause.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "pause"
+      }
+    },
+    "functions/events/discord/channel/message/player.js": {
+      "name": "discord.channel.message.create",
+      "subtype": {
+        "channel_id": "1168843865533456384"
+      }
+    },
+    "functions/events/discord/message/button/share.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "share"
+      }
+    }
+  }
+}

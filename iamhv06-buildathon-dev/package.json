@@ -1,0 +1,16 @@
+{
+  "name": "new-project",
+  "author": "iamhv",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "ytdl-core": "^4.11.5",
+    "yt-search": "^2.10.4",
+    "@iamtraction/google-translate": "^2.0.1",
+    "spotify-info.js": "^1.0.4",
+    "axios": "^1.6.0",
+    "commafy": "^0.0.6",
+    "ms-convert": "^1.0.1",
+    "jimp": "^0.22.10"
+  }
+}
